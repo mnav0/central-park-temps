@@ -52,12 +52,3 @@ body {
   font-size: 0.75em;
   fill: rgb(72, 70, 57);
 }
-
-.circle-label {
-  fill: rgb(72, 70, 57);
-  height: 2em;
-  font-size: 0.5em;
-  text-anchor: middle;
-  pointer-events: none;
-  visibility: hidden;
-}

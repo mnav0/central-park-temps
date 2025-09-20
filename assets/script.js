@@ -12,9 +12,9 @@ const radius = 12;
 const angleIncrement = 0.175;
 
 // color scale setup
-const minColor = 'rgb(140, 255, 140)';
-const midColor = 'rgb(255, 248, 199)';
-const maxColor = 'rgb(194, 0, 100)';
+const minColor = '#C0FF8C';
+const midColor = '#FFF4CC';
+const maxColor = '#900046';
 
 // color scale key setup
 const legendWidth = 300;
